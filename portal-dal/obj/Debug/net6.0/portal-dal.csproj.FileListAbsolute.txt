@@ -1,0 +1,15 @@
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\bin\Debug\net6.0\portal-dal.deps.json
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\bin\Debug\net6.0\portal-dal.dll
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\bin\Debug\net6.0\ref\portal-dal.dll
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\bin\Debug\net6.0\portal-dal.pdb
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\bin\Debug\net6.0\portal-domain.dll
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\bin\Debug\net6.0\portal-domain.pdb
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\obj\Debug\net6.0\portal-dal.csproj.AssemblyReference.cache
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\obj\Debug\net6.0\portal-dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\obj\Debug\net6.0\portal-dal.AssemblyInfoInputs.cache
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\obj\Debug\net6.0\portal-dal.AssemblyInfo.cs
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\obj\Debug\net6.0\portal-dal.csproj.CoreCompileInputs.cache
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\obj\Debug\net6.0\portal-dal.csproj.CopyComplete
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\obj\Debug\net6.0\portal-dal.dll
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\obj\Debug\net6.0\ref\portal-dal.dll
+C:\Users\shebin backar\source\repos\MyWebAPI\portal-dal\obj\Debug\net6.0\portal-dal.pdb
